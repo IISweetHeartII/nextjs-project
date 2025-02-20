@@ -7,7 +7,7 @@ export const footerDetails: {
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "Empowering businesses with cutting-edge financial technology solutions.",
+    subheading: "50대를 위한 커뮤니티, 이제 친구를 여기서 만드세요!",
     quickLinks: [
         {
             text: "리본 모임",
@@ -22,8 +22,8 @@ export const footerDetails: {
             url: "#news"
         }
     ],
-    email: 'address@yoursite.com',
-    telephone: '+1 (123) 456-7890',
+    email: 'Senioring@gmail.com',
+    telephone: '+82 (010) 5006-0198',
     socials: {
         twitter: 'https://twitter.com/Twitter',
         facebook: 'https://facebook.com',

@@ -53,17 +53,17 @@ const Footer: React.FC = () => {
                                     )
                                 }
                             })}
-                        </div>
-                    )}
+                            </div>
+                        )}
+                    </div>
                 </div>
-            </div>
-            <div className="mt-8 md:text-center text-foreground-accent px-6">
-                <p>저작권 &copy; {new Date().getFullYear()} {siteDetails.siteName}. 모든 권리 보유.</p>
-                <p className="text-sm mt-2 text-gray-500">사랑으로 제작됨 &hearts; by <a href="https://nexilaunch.com" target="_blank">Nexi Launch</a></p>
-                <p className="text-sm mt-2 text-gray-500">UI 키트 by <a href="https://ui8.net/youthmind/products/fintech-finance-mobile-app-ui-kit" target="_blank">Youthmind</a></p>
-            </div>
-        </footer>
-    );
-};
+                <div className="mt-8 md:text-center text-foreground-accent px-6">
+                    <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. All rights reserved.</p>
+                    <p className="text-sm mt-2 text-gray-500">Made with love &hearts; by <a href="https://naver.com" target="_blank">Next.js</a></p>
+                    <p className="text-sm mt-2 text-gray-500">UI Kit by <a href="https://ui8.net/youthmind/products/fintech-finance-mobile-app-ui-kit" target="_blank">Youthmind</a></p>
+                </div>
+            </footer>
+        );
+    };
 
-export default Footer;
+    export default Footer;

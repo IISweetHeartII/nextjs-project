@@ -5,18 +5,18 @@ import { IStats } from "@/types";
 
 export const stats: IStats[] = [
     {
-        title: "20M+",
+        title: "1만 명+",
         icon: <BsBarChartFill size={34} className="text-blue-500" />,
-        description: "Transactions processed securely every day, providing real-time insights."
+        description: "매일 활성 사람수."
     },
     {
         title: "5.0",
         icon: <BsFillStarFill size={34} className="text-yellow-500" />,
-        description: "Star rating, consistently maintained across app stores."
+        description: "구글 플레이스토어, 앱 스토어에서 꾸준히 유지되는 별점."
     },
     {
-        title: "200+ ",
+        title: "200+",
         icon: <PiGlobeFill size={34} className="text-green-600" />,
-        description: "Financial Institutions, seamlessly integrated, so you can manage all accounts."
+        description: "리뷰 수."
     }
 ];

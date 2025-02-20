@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'Reborn',
+    siteUrl: 'https://Reborn-omega.vercel.app/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Reborn - 50대를 위한 커뮤니티, 이제 친구를 여기서 만드세요!',
+        description: 'Reborn은 50대를 위한 커뮤니티입니다. 다양한 모임을 통해 새로운 친구를 사귀고, 즐거운 시간을 보내세요!',
     },
     language: 'en-us',
     locale: 'en-US',
