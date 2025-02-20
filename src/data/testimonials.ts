@@ -1,5 +1,5 @@
 import { ITestimonial } from "@/types";
-import { siteDetails } from "./siteDetails";
+// import { siteDetails } from "./siteDetails";
 
 export const testimonials: ITestimonial[] = [
     {
@@ -20,7 +20,7 @@ export const testimonials: ITestimonial[] = [
         name: '박*민',
         role: '64세 / 자영업 / 대구광역시',
         message: `"젊었을 때 못했던 취미를 이제야 시작했어요.  
-        같은 취미를 가진 사람들과 소통하며 배우ㅁㅁ니까 하루하루가 기대됩니다."`,
+        같은 취미를 가진 사람들과 소통하며 배우니까 하루하루가 기대됩니다."`,
         avatar: '/images/testimonial-3.webp',
     },
     {
