@@ -2,15 +2,15 @@ import { IMenuItem } from "@/types";
 
 export const menuItems: IMenuItem[] = [
     {
-        text: "Features",
-        url: "#features"
+        text: "리본 모임",
+        url: "#gathering"
     },
     {
-        text: "Pricing",
-        url: "#pricing"
+        text: "리본 데이트",
+        url: "#date"
     },
     {
-        text: "Testimonials",
-        url: "#testimonials"
+        text: "리본 뉴스",
+        url: "#news"
     }
 ];
