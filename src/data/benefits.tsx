@@ -10,17 +10,17 @@ export const benefits: IBenefit[] = [
             {
                 title: "맞춤형 프로필",
                 description: "나의 관심사와 라이프스타일을 반영한 프로필 생성",
-                icon: <FiUser size={26} />
+                icon: <FiBarChart2 size={26} />
             },
             {
                 title: "주제별 커뮤니티",
                 description: "여행, 건강, 취미, 재테크 등 다양한 분야에서 소통",
-                icon: <FiBarChart2 size={26} />
+                icon: <FiTarget size={26} />
             },
             {
                 title: "안전한 환경",
                 description: "실명 인증과 철저한 보안 시스템을 통해 신뢰할 수 있는 커뮤니티 제공",
-                icon: <FiShield size={26} />
+                icon: <FiTrendingUp size={26} />
             }
         ],
         imageSrc: "/images/mockup-1.webp"
@@ -32,12 +32,12 @@ export const benefits: IBenefit[] = [
             {
                 title: "전문가가 기획한 여행 패키지",
                 description: "50대 라이프스타일에 맞춘 국내외 여행 프로그램",
-                icon: <FiBriefcase size={26} />
+                icon: <FiDollarSign size={26} />
             },
             {
                 title: "밍글링 투어",
                 description: "비슷한 관심사를 가진 사람들과 함께하는 소규모 취미 여행",
-                icon: <FiTrendingUp size={26} />
+                icon: <FiBriefcase size={26} />
             },
             {
                 title: "각종 문화 & 취미 이벤트",
@@ -59,12 +59,12 @@ export const benefits: IBenefit[] = [
             {
                 title: "실시간 모니터링",
                 description: "부적절한 콘텐츠 및 사용자 필터링",
-                icon: <FiShield size={26} />
+                icon: <FiUser size={26} />
             },
             {
                 title: "프라이버시 보호",
                 description: "개인정보를 철저히 보호하는 보안 정책 적용",
-                icon: <FiTarget size={26} />
+                icon: <FiShield size={26} />
             }
         ],
         imageSrc: "/images/mockup-1.webp"
